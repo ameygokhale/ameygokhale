@@ -70,6 +70,6 @@ I am currently active on GitHub, focusing on:
 * **Cybersecurity Labs:** Building and breaking intentionally vulnerable environments.
 * **AI Projects:** Developing Python-based models for behavioral analysis and fraud detection.
 
----ß
+---
 ### ⚖️ Ethical Notice
 *All work in this portfolio was performed in isolated environments or with explicit authorization. This portfolio does **not** promote unauthorized access or unethical activity.*
