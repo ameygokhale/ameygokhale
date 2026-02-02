@@ -1,119 +1,78 @@
+<div align="center">
+
 # Amey Gokhale
+### Cybersecurity Engineer | Cloud Security | SOC Operations
+*Master's in Technology, Cybersecurity & Policy (CU Boulder)*
 
-Cybersecurity Engineer with hands-on experience across **security testing, cloud security, SOC operations, and digital forensics**.
-My work focuses on **practical security execution**, structured analysis, and real-world remediation.
-
-I design, assess, and secure systems end-to-end — from intentionally vulnerable lab environments to production-style cloud and security-aware AI systems.
-
----
-
-## What I Do
-
-I work across the security lifecycle, including:
-
-* Identifying and exploiting vulnerabilities in web, network, and cloud environments
-* Analyzing network traffic, logs, and system artifacts for incident investigation
-* Performing digital forensics and malware analysis
-* Designing detection, monitoring, and defensive security controls
-* Applying automation and AI selectively to improve security outcomes
-
-My approach is **hands-on, methodical, and outcome-driven**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amey-gokhale)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ameygokhale1@gmail.com)
 
 ---
 
-## Core Skill Areas
+</div>
 
-### Cybersecurity (Primary Focus)
+## 👨‍💻 About Me
 
-* Web application security & penetration testing
-* Network attacks, traffic analysis, and protocol behavior
-* Cloud security (AWS & Azure)
-* SOC operations, SIEM, and threat intelligence
-* Digital forensics, malware analysis, and IoT security
+I am a **Cybersecurity Engineer** focused on practical security execution. I bridge the gap between offensive security (Red Team) and defensive operations (Blue Team/SOC). My work moves beyond theory to include **hands-on exploitation, network analysis, digital forensics, and remediation**.
 
-### Applied AI & Automation (Supporting)
-
-* Behavioral anomaly detection
-* AI-assisted monitoring and analysis
-* LLM-based systems for evaluation and decision support
-
-*(AI is used to support security workflows, not replace security fundamentals.)*
+* **Focus:** Securing systems end-to-end, from intentionally vulnerable labs to production-style cloud environments.
+* **Methodology:** Hands-on, methodical, and outcome-driven.
+* **Current State:** Building security-aware AI systems and strengthening Cloud Security postures (AWS & Azure).
 
 ---
 
-## Portfolios
+## 📂 Featured Portfolios
 
-This GitHub profile serves as a **high-level overview**.
-For deeper technical detail, please explore the dedicated portfolios below:
+I maintain dedicated portfolios to separate my core Security work from my AI research. **Click below to explore:**
 
-### 🔐 Cybersecurity Portfolio
-
-Hands-on labs and end-to-end security projects performed in isolated, intentionally vulnerable environments.
-
-Includes:
-
-* Web, network, and cloud security labs
-* SOC and threat intelligence workflows
-* Digital forensics and malware analysis
-* IoT security assessments
-
-👉 **Open Cybersecurity Portfolio:**
-[https://github.com/ameygokhale/Cyber-Portfolio-AmeyGokhale](https://github.com/ameygokhale/Cyber-Portfolio-AmeyGokhale)
+| **🔐 Cybersecurity Portfolio** | **🤖 AI & Automation Portfolio** |
+| :--- | :--- |
+| *Network Security, Cloud Labs, SOC & Forensics* | *LLMs, RAG Systems, & Behavioral Anomaly Detection* |
+| 👉 **[View Security Projects](https://github.com/ameygokhale/Cyber-Portfolio-AmeyGokhale)** | 👉 **[View AI Projects](https://github.com/ameygokhale/AI-Portfolio-Amey-Gokhale)** |
 
 ---
 
-### 🤖 AI Portfolio
+## 🛠 Tech Stack & Toolkit
 
-Projects focused on **applied AI and LLM systems**, particularly where they support security, monitoring, and decision-making.
+### **Cybersecurity & Operations**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat&logo=microsoft-azure&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Includes:
-
-* Retrieval-Augmented Generation (RAG) systems
-* LLM evaluation and benchmarking
-* Prompt optimization and safety guardrails
-* Behavioral anomaly detection systems
-
-👉 **Open AI Portfolio:**
-[https://github.com/ameygokhale/AI-Portfolio-Amey-Gokhale](https://github.com/ameygokhale/AI-Portfolio-Amey-Gokhale)
-
-*(AI repositories are clearly labeled and documented for independent review.)*
-
----
-
-## How to Explore
-
-* Start with the **README** in each repository
-* Review **methodology and findings** before tools
-* Screenshots and outputs are **sanitized and ethical**
-* Each project includes **analysis and remediation** where applicable
+### **Development & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## Tools & Technologies
+## 🔭 Core Competencies
 
-**Security & Networking:**
-Burp Suite, Metasploit, Nmap, Wireshark, Bettercap, tcpdump
+### 🛡️ Cybersecurity (Primary)
+* **Offensive:** Web Application Penetration Testing, Network Exploitation.
+* **Defensive:** SOC Operations, SIEM (Splunk/KQL), Threat Intelligence.
+* **Cloud:** AWS Security, IAM Policy Analysis, CloudTrail Auditing.
+* **Forensics:** Malware Analysis (Ghidra), Disk & Memory Forensics (Autopsy, Volatility3).
 
-**Cloud & SOC:**
-AWS, Azure, IAM, CloudTrail, GuardDuty, Splunk, KQL
-
-**Forensics & Malware:**
-Autopsy, Volatility3, Ghidra
-
-**AI & Automation:**
-Python, ML-based anomaly detection, RAG systems, evaluation frameworks
+### 🤖 Applied AI (Supporting)
+* **Integration:** Using AI to support security workflows (not replace them).
+* **Implementation:** Behavioral anomaly detection, RAG systems, and LLM benchmarking.
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-* **LinkedIn:** [https://www.linkedin.com/in/amey-gokhale](https://www.linkedin.com/in/amey-gokhale)
-* **GitHub:** [https://github.com/ameygokhale](https://github.com/ameygokhale)
-* **Email:** [ameygokhale1@gmail.com](mailto:ameygokhale1@gmail.com)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ameygokhale&show_icons=true&theme=radical&hide_border=true" alt="Amey's Stats" />
+</p>
 
 ---
 
-### Ethical Notice
-
-All work in this portfolio was performed in isolated environments or with explicit authorization.
-This portfolio does **not** promote unauthorized access or unethical activity.
+### ⚖️ Ethical Notice
+*All work in this portfolio was performed in isolated environments or with explicit authorization. This portfolio does **not** promote unauthorized access or unethical activity.*
