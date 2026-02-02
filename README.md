@@ -1,7 +1,7 @@
 <div align="center">
 
 # Amey Gokhale
-### Cybersecurity Engineer | Cloud Security | SOC Operations
+### Cybersecurity Engineer | Cloud Security | SOC Operations | Devops | Cloud Infra
 *Master's in Technology, Cybersecurity & Policy (CU Boulder)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amey-gokhale)
