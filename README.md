@@ -65,14 +65,11 @@ I maintain dedicated portfolios to separate my core Security work from my AI res
 * **Implementation:** Behavioral anomaly detection, RAG systems, and LLM benchmarking.
 
 ---
+## 🚀 Recent Activity
+I am currently active on GitHub, focusing on:
+* **Cybersecurity Labs:** Building and breaking intentionally vulnerable environments.
+* **AI Projects:** Developing Python-based models for behavioral analysis and fraud detection.
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ameygokhale&show_icons=true&theme=radical&hide_border=true" alt="Amey's Stats" />
-</p>
-
----
-
+---ß
 ### ⚖️ Ethical Notice
 *All work in this portfolio was performed in isolated environments or with explicit authorization. This portfolio does **not** promote unauthorized access or unethical activity.*
